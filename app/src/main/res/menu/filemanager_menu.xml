@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fm_menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/fm_menu_refresh"
+        android:icon="@drawable/ic_baseline_autorenew_24"
+        android:title="@string/refresh"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/fm_menu_newfolder"
+        android:title="@string/new_folder"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_create_new_folder_24"/>
+
+    <item
+        android:id="@+id/fm_menu_paste"
+        android:title="@string/paste"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_file_copy_24"/>
+
+    <item
+        android:id="@+id/fm_menu_move_here"
+        android:title="@string/move_here"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_drive_file_move_24"/>
+
+    <item
+        android:id="@+id/fm_menu_rename"
+        android:title="@string/rename" />
+    <item
+        android:id="@+id/fm_menu_copy"
+        android:title="@string/copy" />
+    <item
+        android:id="@+id/fm_menu_move"
+        android:title="@string/move" />
+    <item
+        android:id="@+id/fm_menu_delete"
+        android:title="@string/delete" />
+    <item
+        android:id="@+id/fm_menu_share"
+        android:title="@string/share"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_share_24"/>
+</menu>

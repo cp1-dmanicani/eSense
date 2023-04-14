@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/friends"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Friends"/>
+
+    <item android:id="@+id/requests"
+        android:icon="@drawable/ic_baseline_person_add_alt_1_24"
+        android:title="Requests"/>
+
+    <item android:id="@+id/all_users"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="All Users"/>
+
+    <item android:id="@+id/update_account"
+        android:icon="@drawable/ic_baseline_settings_applications_24"
+        android:title="Update Account"/>
+
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pinMessage"
+        android:title="Pin Message" />
+
+    <item
+        android:id="@+id/viewTimeStamp"
+        android:title="View Time Stamp" />
+
+    <item
+        android:id="@+id/hideTimeStamp"
+        android:title="Hide Time Stamp" />
+
+</menu>

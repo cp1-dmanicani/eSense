@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/accountsettings_navigation"
+    app:startDestination="@id/accountSettings">
+
+    <activity
+        android:id="@+id/accountSettings"
+        android:name="com.creatorbox.esense.AccountSettings"
+        android:label="Account"
+        tools:layout="@layout/account_settings" />
+    <fragment
+        android:id="@+id/friends"
+        android:name="com.creatorbox.esense.FriendsFragment"
+        android:label="Friends"
+        tools:layout="@layout/fragment_friends" />
+    <fragment
+        android:id="@+id/requests"
+        android:name="com.creatorbox.esense.RequestsFragment"
+        android:label="Requests"
+        tools:layout="@layout/fragment_requests" />
+    <fragment
+        android:id="@+id/all_users"
+        android:name="com.creatorbox.esense.AllUsersFragment"
+        android:label="All Users"
+        tools:layout="@layout/fragments_all_users" />
+    <activity
+        android:id="@+id/update_account"
+        android:name="com.creatorbox.esense.OnlineChat_Status"
+        android:label="Update Account"
+        tools:layout="@layout/online_chat_status" />
+</navigation>

@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">eSense</string>
+    <string name="send">SEND</string>
+    <string name="ftp">FILE TRANSFER</string>
+    <string name="receive">RECEIVE</string>
+    <string name="chat">CHAT</string>
+    <string name="files">FILE MANAGER</string>
+    <string name="settings">SETTINGS</string>
+    <string name="hint_profilePic">Tap Image to Load your Profile Photo</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="welcome_user">Hello, </string>
+    <string name="bt_devices">DEVICES</string>
+    <string name="bt_search">Search</string>
+    <string name="bt_paired_devices">Paired Devices</string>
+    <string name="bt_available_devices">Available Devices</string>
+    <string name="bt_scan_devies">Scan</string>
+    <string name="scanning">Scanning</string>
+    <string name="select_device">Select Device</string>
+    <string name="none_found">No Devices Found</string>
+    <string name="none_paired">No Devices Paired</string>
+    <string name="bt_not_enabled_leaving">Bluetooth Not Enabled</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="connect">Connect</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="profile_status">Hello there,</string>
+    <string name="download">Download</string>
+    <string name="acc_settings">Account Settings</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="allowed_chars">0123456789qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM_-</string>
+    <string name="about_us">About Us</string>
+    <string name="about_creatorbox">CreatorBox is a digital IT solutions company which develops hardware devices and peripherals to digital media desktop software solutions including multimedia and the Web. We do this through developing applications that are bundled with any of our hardware devices, or potentially adding new features to existing solutions. Our latest project is the eSense App which will revolutionize the interaction of wireless devices. eSense is a communication gadget with a mobile app that will provide a communication line even without an internet connection or amidst power interruption.
+    </string>
+    <string name="settings_connectivity">Connectivity</string>
+    <string name="empty_folder">No Files and Folders found.</string>
+    <string name="press_back_button">Tap on back button to go back.</string>
+    <string name="internal_storage">Phone Storage</string>
+    <string name="removable_storage">Removable Storage</string>
+    <string name="online_mode">Online Mode</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="onlineMode_info">         The user selects "online mode" if he wants to use the device\'s internet connection to chat with other registered users or transmit files to them.</string>
+    <string name="offlineMode_info">        The user chooses "offline mode" if he prefers to chat with and send files to friends who also uses eSense devices without utilizing the internet. The user uses this portable gadget to connect with the eSense app on any smartphone for file-sharing or chatting.</string>
+    <string name="file_size">0KB</string>
+
+    <string name="btn_send">SEND</string>
+    <string name="str_menu_search_devices">Search Devices</string>
+    <string name="str_menu_bluetooth_btn">Switch ON Bluetooth</string>
+    <string name="str_receiver_info">Please wait for the pop-up window to accept or decline the file transfer...</string>
+
+    <string name="str_paired_devices">Paired Devices</string>
+    <string name="str_available_devices">Available Devices</string>
+    <string name="str_scan_devices">Scan Devices</string>
+
+    <string name="home">Home</string>
+    <string name="refresh">Refresh</string>
+    <string name="new_folder">New Folder</string>
+    <string name="paste">Paste</string>
+    <string name="move_here">Move Here</string>
+    <string name="rename">Rename</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="devices">Paired Bluetooth Devices</string>
+    <string name="bluetooth_permission_title">Bluetooth permission</string>
+    <string name="bluetooth_permission_grant">Bluetooth permission is required by this App. Please grant in next dialog.</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission was permanently denied. You have to enable permission \"%s\" in App settings.</string>
+
+</resources>
